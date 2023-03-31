@@ -6,11 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gclhaha&layout=compact&hide=tsql)](https://github.com/gclhaha/github-readme-stats)
 
-👋 Hi,  I'm **gclhaha**! 
 
 ## 📚 About Me
-
-🌏 Location: **Shanghai, China**
 
 😄 Hobbies: 
   - **Coding** 💻
