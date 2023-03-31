@@ -10,8 +10,8 @@
 
 😄 Hobbies: 
   - **Coding** 💻
-  - **Movies** 🎬
-  - **Reading Books** 📖
+  - **Movie** 🎬
+  - **Reading** 📖
 
 ## 🛠 Skills
   - **Vue** 🌐
