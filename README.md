@@ -14,9 +14,9 @@
   - **Reading** 📖
 
 ## 🛠 Skills
-  - **Vue** 🌐
   - **Java** ☕
   - **Golang** 🐹
+  - **Vue** 🌐
 
 ## 📬 Contact Information
 
