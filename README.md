@@ -2,6 +2,8 @@
 
 # 🚀 gclhaha's GitHub Profile 🚀
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gclhaha)](https://github.com/anuraghazra/github-readme-stats)
+
 👋 Hi,  I'm **gclhaha**! 
 
 ## 📚 About Me
