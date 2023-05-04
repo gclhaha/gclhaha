@@ -5,4 +5,4 @@
 ## Skills
 **Java**、 **Golang** 、**Vue** 
 
-[Email](gclhaha@qq.com) 
+Email: gclhaha@qq.com
